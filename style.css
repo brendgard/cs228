@@ -1,0 +1,205 @@
+body
+{
+
+    border: 0px solid #000000;
+    text-align: center;
+
+    background: #ffffff;
+    text-decoration:none;
+    color: #000000;
+    font-family: tahoma;
+    font-size: 12px;
+
+
+}
+
+
+.memberinfobox
+{
+
+    font-size: 12px;
+    border: 0px solid #FFFFFF;
+    margin: 5px 5 5 5;
+    background-color: #ffffff;
+    text-align: left
+}
+
+    .memberinfotext
+    {
+
+      margin: 5px 5px 5px 5px;
+      background-color: #ffffff;
+      border: 0px solid #ffffff;
+      text-align: left
+    }
+
+.top1 {
+    background: 'images/logo.jpg';
+    font-size: 12px;
+    font-weight: bold;
+    color: #ff0000;
+
+}
+
+
+.top {
+    background: white;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ff0000;
+
+}
+
+
+}
+
+.leftside {
+    background: white;
+    text-align: left;
+
+}
+
+.menu {
+
+
+    background: white;
+    text-align: center;
+    font-family: tahoma;
+    font-size: 12px;
+    color: #ff0000;
+
+}
+
+
+.header {
+    border-bottom: 1px solid #000000;
+    font-size: 12px;
+    font-weight: bold;
+    color: #ff0000;
+
+}
+
+
+.catheader {
+
+    border-bottom: 1px solid #000000;
+    font-size: 12px;
+
+    font-weight: bold;
+    color: #ff0000;
+    text-align: left;
+}
+
+
+.footer {
+    background: white;
+    text-align: center;
+
+
+    color: #ff0000;
+ 
+}
+
+
+.space {
+    clear: both;
+    width: 900px;
+    background: #000000;
+
+}
+
+
+.general {
+    margin: 7px;
+    margin-left: 10px;
+}
+
+
+.game {
+    width: 340px;
+    float: left;
+}
+
+
+.ic {
+    float: left;
+    position: relative !important;
+    margin: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 260px;
+}
+
+img {
+        float: none;
+	margin: 1px;
+	padding: 1px;
+	border: 0px solid #000;
+}
+
+
+.thumbnail {
+    float: left;
+
+    margin: 10px !important;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+
+.td {
+    }
+.td2 
+{
+    float: none
+}
+
+
+a
+{
+    color: #ff0000;
+
+}
+
+a:hover {
+    color: #ff0000;
+}
+.texta
+{
+    color: #ff0000;
+    margin: 10px;
+}
+
+a:hover {
+    color: #ff0000:03 AM 1/4/2011;
+}
+
+
+
+.social {
+    margin: 1px;
+    margin-left: 1px;
+    margin-bottom: 1px;
+}
+
+.gamebox
+{
+width: 90px;
+    height: 110px;
+    
+    font-size: 12px;
+    margin: 0px 0 0 0;
+    background-color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    text-align: center
+}
+
+
+
+    .gamedescription
+    {
+      width: 600px;
+      margin: 5px 95px 5px 95px;
+      background-color: #ffffff;
+      border: 1px solid #ffffff;
+      text-align: left
+    }
